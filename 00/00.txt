@@ -26,4 +26,6 @@
    request for a web page or other resource using the HTTP, and the server
    responds with the content of that resource or an error message.
 
+ *
+
  * End of Trivia */
